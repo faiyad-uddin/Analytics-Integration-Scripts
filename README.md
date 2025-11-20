@@ -70,5 +70,5 @@ When deploying the scripts on a live website, consider using Google Tag Manager 
 **For custom analytics integration, troubleshooting, or consulting:**
 
 - **Email**: faiyad@allinonedigitalx.info
-- 
+  
 - **LinkedIn**: https://www.linkedin.com/in/faiyad-uddin-profile/
