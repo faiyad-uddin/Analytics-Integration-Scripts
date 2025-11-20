@@ -65,3 +65,10 @@ Use event naming conventions to keep your analytics clean and organized.
 Test the events thoroughly to ensure data accuracy before relying on the reports.
 
 When deploying the scripts on a live website, consider using Google Tag Manager for easier tracking management.
+
+
+**For custom analytics integration, troubleshooting, or consulting:**
+
+- **Email**: faiyad@allinonedigitalx.info
+- 
+- **LinkedIn**: https://www.linkedin.com/in/faiyad-uddin-profile/
